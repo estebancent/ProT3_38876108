@@ -1,0 +1,16 @@
+contraseñas
+
+administrador:
+email: esteban.cent@gmail.com
+contraseña:estebanTD2024
+
+email: talentos_2024@gmail.com
+contraseña: talentos_digitales2024
+
+
+Cliente:
+email:fran_ceru@gmail.com
+contraseña:julian2024
+
+email:gonza98@gmail.com
+contraseña:gonza2024
