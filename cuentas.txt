@@ -10,7 +10,7 @@ contraseña: talentos_digitales2024
 
 Cliente:
 email:fran_ceru@gmail.com
-contraseña:julian2024
+contraseña:francisco2024
 
 email:gonza98@gmail.com
 contraseña:gonza2024
